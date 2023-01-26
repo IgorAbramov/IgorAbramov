@@ -29,6 +29,7 @@
   - ⚡ Git / GitHub / Gitlab
   - ⚡ PHPUnit , Jest , MochaJS
   - ⚡ Nginx
+  - ⚡ Bitcoin , Ethereum , Hedera , Binance-smart-chain , Polygon , Tron
 
 ### 👉 Reach me on [TopTal](https://www.toptal.com/resume/igor-abramov) 💻
 
