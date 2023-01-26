@@ -2,9 +2,7 @@
   <text>Hi there 👋</text>
 </div>
 
-<div id="br" align="center">  
-  <text>-----------</text>
-</div>
+---
 
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
@@ -15,6 +13,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>  
   </a>  
 </div> 
+
+---
+
+### 👨‍💻 About Me :
 
 - 🔭 My name is Igor. Started to code in 2017. Most of my repositories are private, but starting from 2023 I decided to be open about my work and what I do as a professional developer. 
 
