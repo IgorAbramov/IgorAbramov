@@ -30,11 +30,11 @@
   - ⚡ PHPUnit , Jest , MochaJS
   - ⚡ Nginx
 
-### 👉 Here is my [TopTal profile](https://www.toptal.com/resume/igor-abramov) 💻
+### 👉 Reach me on [TopTal](https://www.toptal.com/resume/igor-abramov) 💻
 
-### 👉 Here is my [Upwork profile](https://www.upwork.com/freelancers/~013a41756390b141a8) 🧲
+### 👉 Reach me on [Upwork](https://www.upwork.com/freelancers/~013a41756390b141a8) 🧲
 
-### 👉 Here is my [Portfolio](https://igor-dev.com) 🛠️
+### 👉 Or reach me directly on my [Portfolio website](https://igor-dev.com) 🛠️
 
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=IgorAbramov&label=Profile%20views&color=0e75b6&style=flat" alt="IgorAbramov"/></p>
