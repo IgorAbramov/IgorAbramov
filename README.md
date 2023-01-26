@@ -1,7 +1,8 @@
-
-<div id="header" align="center">
+<div id="hello" align="center">  
   ### Hi there 👋
-  
+</div>
+
+<div id="header" align="center">  
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
 </div>  
 
