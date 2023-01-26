@@ -16,7 +16,7 @@
   </a>  
 </div> 
 
-- 🔭 My name is Igor. Most of my repositories are private, but starting from 2023 I decided to be open about my work and what I do as a professional developer. 
+- 🔭 My name is Igor. Started to code in 2017. Most of my repositories are private, but starting from 2023 I decided to be open about my work and what I do as a professional developer. 
 
 - 🪐 I’m a full stack Web Application developer, mostly experienced with developing PHP backend applications using Symfony. But also having an experience of developing Websites, Mobile Apps and Smart Contracts.
 
@@ -53,18 +53,3 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IgorAbramov&layout=compact&theme=algolia&langs_count=6" />
   </a>
 </p>
-
-<!--
-**IgorAbramov/IgorAbramov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
