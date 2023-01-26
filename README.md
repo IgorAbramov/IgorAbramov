@@ -16,9 +16,11 @@
   </a>  
 </div> 
 
-- 🔭 I’m a full stack Web Application developer, mostly experienced with developing PHP backend applications using Symfony. 
+- 🔭 My name is Igor. In 2023 I decided to be open about my work and what I do as a professional developer. 
 
-- ⚡ Always available for new opportunities, my expertise include:-
+- 🪐 I’m a full stack Web Application developer, mostly experienced with developing PHP backend applications using Symfony. But also having an experience of developing Websites, Mobile Apps and Smart Contracts.
+
+- ⭐️ I'm always glad for new opportunities and challenges, my expertise includes:-
 
   - ⚡ PHP , NodeJS (Typescript , Javascript) , Solidity , Dart , Python
   - ⚡ Symfony , Next.js , Nestjs , Flutter , React , Redux , HardHat , Truffle
@@ -27,6 +29,13 @@
   - ⚡ Git / GitHub / Gitlab
   - ⚡ PHPUnit , Jest , MochaJS
   - ⚡ Nginx
+
+### 👉 Here is my [TopTal profile](https://www.toptal.com/resume/igor-abramov) 💻
+
+### 👉 Here is my [Upwork profile](https://www.upwork.com/freelancers/~013a41756390b141a8) 🧲
+
+### 👉 Here is my [Portfolio](https://igor-dev.com) 🛠️
+
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=IgorAbramov&label=Profile%20views&color=0e75b6&style=flat" alt="IgorAbramov"/></p>
 
@@ -47,10 +56,6 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IgorAbramov&theme=react-dark&hide_title=true&hide_border=true&area=true" />
   </a>
 </p>
-
-### 👉 Visit [Upwork profile](https://www.upwork.com/freelancers/~013a41756390b141a8) 🦅
-
-### 👉 Visit my [Portfolio](https://igor-dev.com) 🦅
 
 <!--
 **IgorAbramov/IgorAbramov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
