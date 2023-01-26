@@ -1,12 +1,13 @@
 <div id="hello" align="center">  
   <text>Hi there 👋</text>
+    <br/>
 </div>
 
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
 </div>  
 
-<div id="badges">
+<div id="badges" align="center">  
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>  
 </div>  
 
