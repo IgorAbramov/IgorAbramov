@@ -16,7 +16,7 @@
   </a>  
 </div> 
 
-- 🔭 My name is Igor. In 2023 I decided to be open about my work and what I do as a professional developer. 
+- 🔭 My name is Igor. Most of my repositories are private, but starting from 2023 I decided to be open about my work and what I do as a professional developer. 
 
 - 🪐 I’m a full stack Web Application developer, mostly experienced with developing PHP backend applications using Symfony. But also having an experience of developing Websites, Mobile Apps and Smart Contracts.
 
