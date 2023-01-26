@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
 </div>  
 
+---
+
 <div id="badges" align="center">  
   <a href="https://www.linkedin.com/in/igor-abramov-815484143">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>  
