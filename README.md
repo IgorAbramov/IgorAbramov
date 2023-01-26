@@ -43,10 +43,9 @@
 
 ### 👉 Or reach me directly on my [Portfolio website](https://igor-dev.com) 🔥
 
+---
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=IgorAbramov&label=Profile%20views&color=0e75b6&style=flat" alt="IgorAbramov"/></p>
-
----
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
