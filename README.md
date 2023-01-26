@@ -20,7 +20,7 @@
 
 - 🪐 I’m a full stack Web Application developer, mostly experienced with developing PHP backend applications using Symfony. But also having an experience of developing Websites, Mobile Apps and Smart Contracts.
 
-- ⭐️ I'm always glad for new opportunities and challenges, my expertise includes:-
+- ⭐️ I'm always open for new opportunities and challenges, my expertise includes:-
 
   - ⚡ PHP , NodeJS (Typescript , Javascript) , Solidity , Dart , Python
   - ⚡ Symfony , Next.js , Nestjs , Flutter , React , Redux , HardHat , Truffle
