@@ -1,3 +1,8 @@
+
+<p align="left">
+  <img src="https://www.codewars.com/users/IgorAbramov/badges/micro" alt="codewars-IgorAbramov"/>
+</p>
+
 <div id="hello" align="center">  
   <text>Hi there 👋</text>
 </div>
@@ -46,6 +51,14 @@
 ### 👉 [Upwork](https://www.upwork.com/freelancers/~013a41756390b141a8) 🧲
 
 ---
+
+#### 💻 &nbsp;Last 7 days of coding:
+
+<!--START_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@06eb2ee9-68cc-4dc3-830f-2c06980a625e/6e119fcb-02be-47eb-8a44-b4f5994d2c4c.svg"></embed></figure>
+
+<!--END_SECTION:waka-->
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
