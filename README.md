@@ -56,8 +56,6 @@
 
 <!--START_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@06eb2ee9-68cc-4dc3-830f-2c06980a625e/6e119fcb-02be-47eb-8a44-b4f5994d2c4c.svg"></embed></figure>
-
 <!--END_SECTION:waka-->
 
 <div>
