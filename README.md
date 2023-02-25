@@ -85,12 +85,3 @@ height="40"/>&nbsp;
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorAbramov&theme=algolia&hide_border=true"/>
 </p>
-
- <p align="center">
-  <a href="https://github.com/IgorAbramov">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAbramov&show_icons=true&theme=algolia&count_private=true">
-  </a>
-  <a href="https://github.com/IgorAbramov">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IgorAbramov&layout=compact&theme=algolia&langs_count=6" />
-  </a>
-</p>
