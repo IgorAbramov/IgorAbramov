@@ -32,7 +32,7 @@
 - ⭐️ I'm always open for new opportunities and challenges, my expertise includes:-
 
   - ⚡ PHP , NodeJS (Typescript , Javascript) , Solidity , Dart , Python
-  - ⚡ Symfony , Next.js , Nestjs , Flutter , React , Redux , HardHat , Truffle
+  - ⚡ Symfony , Mezzio , Laminas , Next.js , Nestjs , Flutter , React , Redux , HardHat , Truffle
   - ⚡ SQL (MariaDB , PosgreSQL , MySQL , SQLite) / NoSQL (Firestore , MongoDB)
   - ⚡ AWS , Google Cloud
   - ⚡ Git / GitHub / Gitlab
