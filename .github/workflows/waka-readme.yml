@@ -7,9 +7,18 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme IgorAbramov
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: IgorAbramov/IgorAbramov
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: false
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
+          LANG_COUNT: 5
