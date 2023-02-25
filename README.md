@@ -52,10 +52,7 @@
 
 ---
 
-#### 💻 &nbsp;Last 7 days of coding:
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <div>
