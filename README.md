@@ -25,6 +25,11 @@
   <a href="https://www.toptal.com/resume/igor-abramov" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Toptal&color=3863A0&logo=Toptal&logoColor=FFFFFF&label=" alt="igor-toptal">
   <a/>
+  <a href="https://www.upwork.com/freelancers/~013a41756390b141a8" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=" alt="igor-upwork">
+  <a/>
+    
+    
 </div> 
 
 ---
@@ -47,16 +52,6 @@
   - ⚡ PHPUnit , Jest , MochaJS
   - ⚡ Nginx
   - ⚡ Bitcoin , Ethereum , Hedera , Binance-smart-chain , Polygon , Tron
-
----
-
-### 🔈 Reach Me :
-
-### 👉 [My Portfolio Website](https://igor-dev.com) 🔥
-
-### 👉 [TopTal](https://www.toptal.com/resume/igor-abramov) 💻
-
-### 👉 [Upwork](https://www.upwork.com/freelancers/~013a41756390b141a8) 🧲
 
 ---
 
