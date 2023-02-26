@@ -18,7 +18,10 @@
 <div id="badges" align="center">  
   <a href="https://www.linkedin.com/in/igor-abramov-815484143">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>  
-  </a>  
+  </a> 
+  <a href="https://igor-dev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-f97035?style=flat-square&logo=google-chrome&logoColor=white" alt="igor-dev">
+  <a/>
 </div> 
 
 ---
