@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>  
   </a> 
   <a href="https://igor-dev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-f97035?style=flat-square&logo=google-chrome&logoColor=white" alt="igor-dev">
+    <img src="https://img.shields.io/badge/Website-f97035?style=for-the-badge&logo=google-chrome&logoColor=white" alt="igor-dev">
   <a/>
 </div> 
 
