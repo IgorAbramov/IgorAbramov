@@ -27,6 +27,8 @@
 
 - 🔭 My name is Igor. Started to code in 2017. Most of my repositories are private, but starting from 2023 I decided to be open about my work and what I do as a professional developer. 
 
+- ⚔️ I wake up every morning and keep mastering what I chose to be my path. Becoming a better person, doing everything what is within my capabilities for my family.
+
 - 🪐 I’m a Backend Web developer with a Frontend experience, mostly experienced with developing PHP backend applications using Symfony. But also having an experience of developing Websites, Mobile Apps and Smart Contracts.
 
 - ⭐️ I'm always open for new opportunities and challenges, my expertise includes:-
