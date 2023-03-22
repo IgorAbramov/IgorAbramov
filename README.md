@@ -77,7 +77,7 @@ SVG            1 min           ░░░░░░░░░░░░░░░░�
   <img src="https://wakatime.com/badge/user/06eb2ee9-68cc-4dc3-830f-2c06980a625e.svg"/>
 </p>
 
-<div>
+<div style="background-color:rgba(212, 212, 212, 0.0470588)>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="40" 
 height="40"/>&nbsp;
