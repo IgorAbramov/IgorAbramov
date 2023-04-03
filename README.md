@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 51 hrs 7 mins
+Total Time: 43 hrs 19 mins
 
-PHP              35 hrs 1 min    █████████████████░░░░░░░░   68.51 %
-Dart             10 hrs 33 mins  █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-Markdown         1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-JSON             1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-TypeScript       1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-YAML             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP              35 hrs 1 min    ████████████████████▒░░░░   80.85 %
+Dart             2 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Markdown         1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JSON             1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+TypeScript       1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+YAML             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
