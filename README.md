@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 32 hrs 8 mins
+Total Time: 32 hrs 5 mins
 
-PHP              20 hrs 56 mins  ████████████████▒░░░░░░░░   65.17 %
-TypeScript       7 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Dart             2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+PHP              20 hrs 56 mins  ████████████████▒░░░░░░░░   65.28 %
+TypeScript       7 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+Dart             2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
 JSON             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 Markdown         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
