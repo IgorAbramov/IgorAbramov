@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 36 hrs 17 mins
+Total Time: 37 hrs 27 mins
 
-PHP             33 hrs 20 mins  ███████████████████████░░   91.85 %
-Dart            2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Markdown        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-YAML            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JSON            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Shell Script    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP              32 hrs 40 mins  █████████████████████▓░░░   87.23 %
+Dart             3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+GitIgnore file   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Shell Script     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
