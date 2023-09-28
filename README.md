@@ -60,13 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 53 mins
+Total Time: 28 hrs 3 mins
 
-PHP    28 hrs 45 mins  █████████████████████████   99.58 %
-YAML   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-NEON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP    28 hrs 3 mins   █████████████████████████   99.99 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
