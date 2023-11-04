@@ -60,12 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 57 mins
+Total Time: 7 hrs 18 mins
 
-PHP    10 hrs 46 mins  ████████████████████████▓   98.35 %
-NEON   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP    7 hrs 7 mins    ████████████████████████▒   97.53 %
+NEON   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
