@@ -60,11 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 1 min
+Total Time: 0 secs
 
-PHP    3 hrs 51 mins   ████████████████████████░   95.52 %
-NEON   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
