@@ -60,9 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 8 hrs 1 min
 
-No activity tracked
+PHP        5 hrs 59 mins   ██████████████████▓░░░░░░   74.68 %
+YAML       1 hr 21 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+Twig       37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
