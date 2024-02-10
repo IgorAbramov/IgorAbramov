@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 36 mins
+Total Time: 19 hrs 21 mins
 
-PHP              15 hrs 45 mins  ████████████████████░░░░░   80.36 %
-YAML             3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+PHP              15 hrs 7 mins   ███████████████████▓░░░░░   78.14 %
+YAML             3 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Text             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
