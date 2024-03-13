@@ -60,9 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 6 hrs 55 mins
 
-No activity tracked
+TypeScript       6 hrs 9 mins    ██████████████████████▒░░   88.83 %
+Text             43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+SCSS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
