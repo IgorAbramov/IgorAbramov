@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs 29 mins
+Total Time: 23 hrs 26 mins
 
-TypeScript            15 hrs 40 mins  ████████████████░░░░░░░░░   63.95 %
-PHP                   6 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-SCSS                  1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Text                  28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JavaScript            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-HTTP Request          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+TypeScript            13 hrs 18 mins  ██████████████▒░░░░░░░░░░   56.76 %
+PHP                   7 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
+SCSS                  1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Text                  17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+JavaScript            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+JSON                  15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
