@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 29 mins
+Total Time: 14 hrs 31 mins
 
-PHP                   9 hrs 41 mins   ████████████████▓░░░░░░░░   66.86 %
-YAML                  1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-TypeScript            1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Gherkin               1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-HTTP Request          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-JSON                  6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+PHP                   11 hrs 15 mins  ███████████████████▒░░░░░   77.48 %
+YAML                  1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+TypeScript            51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Gherkin               24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+HTTP Request          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Cookie storage file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
