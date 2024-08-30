@@ -62,7 +62,8 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+JSON   0 secs          ████████████████████████▓   99.32 %
+PHP    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
