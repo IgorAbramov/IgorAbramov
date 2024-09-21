@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 26 hrs 5 mins
+Total Time: 27 hrs 18 mins
 
-TypeScript       11 hrs 51 mins  ███████████▒░░░░░░░░░░░░░   45.48 %
-PHP              11 hrs 14 mins  ██████████▓░░░░░░░░░░░░░░   43.09 %
-Gherkin          1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-JSON             48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-GitIgnore file   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-CSS              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+PHP              13 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.05 %
+TypeScript       10 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   39.10 %
+Gherkin          1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+JSON             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Text             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+GitIgnore file   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
