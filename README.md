@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 24 mins
+Total Time: 25 hrs 49 mins
 
-PHP            14 hrs 15 mins  ██████████████░░░░░░░░░░░   56.10 %
-Gherkin        10 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   41.90 %
-textmate       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-YAML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-TypeScript     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-HTTP Request   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP              14 hrs 15 mins  █████████████▓░░░░░░░░░░░   55.20 %
+Gherkin          10 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   41.22 %
+TypeScript       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+textmate         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+YAML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
