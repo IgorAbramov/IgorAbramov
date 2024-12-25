@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 3 mins
+Total Time: 15 hrs 33 mins
 
-PHP          13 hrs 43 mins  ██████████████████░░░░░░░   72.01 %
-Gherkin      4 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-TypeScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-.env file    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+PHP          10 hrs 29 mins  █████████████████░░░░░░░░   67.49 %
+Gherkin      4 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
+TypeScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+.env file    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
