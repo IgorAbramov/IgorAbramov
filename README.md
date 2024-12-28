@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 29 mins
+Total Time: 4 hrs 17 mins
 
-PHP          4 hrs 9 mins    ██████████████░░░░░░░░░░░   55.43 %
-Gherkin      3 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.57 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP          3 hrs 6 mins    ██████████████████░░░░░░░   72.26 %
+Gherkin      1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   27.73 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
