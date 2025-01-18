@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 43 mins
+Total Time: 20 hrs 34 mins
 
-PHP                   19 hrs 42 mins  ███████████████████████▓░   95.13 %
-Gherkin               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-YAML                  16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-HTTP Request          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+PHP                   19 hrs 11 mins  ███████████████████████▒░   93.31 %
+Text                  23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Gherkin               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+YAML                  15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+HTTP Request          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Markdown              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-textmate              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
