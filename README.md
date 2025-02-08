@@ -60,13 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 30 mins
+Total Time: 21 hrs 55 mins
 
-PHP             14 hrs 5 mins   ███████████████▓░░░░░░░░░   62.62 %
-TypeScript      8 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   36.95 %
-PlantUML file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP             11 hrs 25 mins  █████████████░░░░░░░░░░░░   52.13 %
+TypeScript      10 hrs 29 mins  ████████████░░░░░░░░░░░░░   47.87 %
+PlantUML file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
