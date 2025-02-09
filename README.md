@@ -60,10 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 55 mins
+Total Time: 21 hrs 29 mins
 
-PHP             11 hrs 25 mins  █████████████░░░░░░░░░░░░   52.13 %
-TypeScript      10 hrs 29 mins  ████████████░░░░░░░░░░░░░   47.87 %
+PHP             11 hrs 37 mins  █████████████▓░░░░░░░░░░░   54.11 %
+TypeScript      9 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   45.89 %
 PlantUML file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
