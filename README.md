@@ -44,12 +44,12 @@
 
 - ⭐️ I'm always open for new opportunities and challenges, my expertise includes:-
 
-  - ⚡ PHP , NodeJS (Typescript , Javascript) , Solidity , Dart , Python
-  - ⚡ Symfony , Mezzio , Laminas , Next.js , Nestjs , Flutter , React , Redux , HardHat , Truffle
-  - ⚡ SQL (MariaDB , PosgreSQL , MySQL , SQLite) / NoSQL (Firestore , MongoDB)
-  - ⚡ AWS , Google Cloud
-  - ⚡ Git / GitHub / Gitlab
-  - ⚡ PHPUnit , Jest , MochaJS
+  - ⚡ PHP , NodeJS (Typescript , Javascript) , Solidity , Dart , Python , C++
+  - ⚡ Symfony , Laravel , Mezzio , Laminas , Next.js , Nestjs , Flutter , React , Redux , HardHat , Truffle , Temporal
+  - ⚡ SQL (MariaDB , PosgreSQL (also Timescale), MySQL , SQLite) / NoSQL (Firestore , MongoDB)
+  - ⚡ AWS , Google Cloud , Kubernetes
+  - ⚡ Git / GitHub / Gitlab / Bitbucket
+  - ⚡ PHPUnit , Jest , MochaJS , Behat , Cucumber
   - ⚡ Nginx
   - ⚡ Bitcoin , Ethereum , Hedera , Binance-smart-chain , Polygon , Tron
 
