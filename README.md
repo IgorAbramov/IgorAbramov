@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 17 mins
+Total Time: 22 hrs 10 mins
 
-TypeScript   20 hrs 40 mins  ███████████████████████▒░   92.80 %
-JSON         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-SCSS         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-TSConfig     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-.env file    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TypeScript   20 hrs 46 mins  ███████████████████████▒░   93.66 %
+.env file    40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
