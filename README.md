@@ -62,7 +62,8 @@
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+PHP        0 secs          ██████████████░░░░░░░░░░░   55.70 %
+Markdown   0 secs          ███████████░░░░░░░░░░░░░░   44.30 %
 ```
 
 <!--END_SECTION:waka-->
