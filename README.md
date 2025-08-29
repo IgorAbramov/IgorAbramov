@@ -60,11 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 15 mins
+Total Time: 3 hrs 55 mins
 
-TypeScript   2 hrs 31 mins   ███████████████████▒░░░░░   77.75 %
-Text         39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript   3 hrs 11 mins   ████████████████████▒░░░░   81.44 %
+Text         39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Twig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
