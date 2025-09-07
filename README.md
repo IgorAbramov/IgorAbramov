@@ -60,10 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 0 secs
 
-TypeScript   5 mins          ███████████████████████▓░   94.78 %
-HTML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
