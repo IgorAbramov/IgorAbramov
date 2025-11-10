@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 14 mins
+Total Time: 13 hrs 7 mins
 
-Ruby             5 hrs 53 mins   ████████████████░░░░░░░░░   63.82 %
-PHP              48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-YAML             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Markdown         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-GitIgnore file   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Makefile         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Ruby             5 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   44.94 %
+PHP              3 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   28.60 %
+YAML             59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+Makefile         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Markdown         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+GitIgnore file   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
