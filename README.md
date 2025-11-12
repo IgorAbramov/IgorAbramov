@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/igor-abramov-815484143">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>  
   </a> 
-  <a href="https://igor-dev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-f97035?style=for-the-badge&logo=google-chrome&logoColor=white" alt="igor-dev">
-  <a/>  
   <a href="https://www.toptal.com/resume/igor-abramov" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Toptal&color=3863A0&logo=Toptal&logoColor=FFFFFF&label=" alt="igor-toptal">
   <a/>
