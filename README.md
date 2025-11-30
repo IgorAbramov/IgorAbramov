@@ -57,12 +57,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 45 mins
+Total Time: 0 secs
 
-Ruby       29 mins         ████████████████░░░░░░░░░   63.62 %
-Markdown   13 mins         ███████░░░░░░░░░░░░░░░░░░   28.52 %
-YAML       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
