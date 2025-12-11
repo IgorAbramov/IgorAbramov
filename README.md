@@ -57,9 +57,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 58 mins
 
-No activity tracked
+TypeScript       32 mins         ██████████████░░░░░░░░░░░   56.02 %
+JSON             24 mins         ██████████▓░░░░░░░░░░░░░░   42.71 %
+SCSS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+PHP              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+yarn.lock        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
