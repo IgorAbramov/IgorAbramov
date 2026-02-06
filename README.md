@@ -59,8 +59,7 @@
 ```txt
 Total Time: 0 secs
 
-TypeScript    0 secs          █████████████████████████   99.92 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
